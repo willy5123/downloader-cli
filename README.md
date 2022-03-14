@@ -1,4 +1,4 @@
-<h1 align="center">downloader-cli</h1>
+<h1 align="center">downloader-cli-test</h1>
 <h3 align="center">A simple downloader written in Python with an awesome progressbar.</h3>
 
 <div align="center" style="padding-top: 2em !important; padding-bottom: 2em; !important">
